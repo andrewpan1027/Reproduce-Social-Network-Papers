@@ -10,7 +10,7 @@ The main purpose of these notebooks is to push myself to figure out the details 
 ![Image](https://github.com/andrewpan1027/Reproduce-Social-Network-Papers/blob/master/readme-pics/1.PNG)
 
 - **summary**
-  - *Core motivation**: summarize this paper in one sentence
+  - **Core motivation**: summarize this paper in one sentence
   - **Key elements of the approach**: methods and theories mentioned in papers
   - **Contribution**
   - **To dos**: inspirations and what to do in the future
@@ -25,3 +25,4 @@ Hope it is helpful for those who are also interested in these papers and happy t
 
 ---
 
+- [Viswanath_2009](https://nbviewer.jupyter.org/github/andrewpan1027/Reproduce-Social-Network-Papers/blob/master/Viswanath_2009.ipynb)
