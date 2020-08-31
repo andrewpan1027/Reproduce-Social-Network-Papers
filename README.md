@@ -25,4 +25,4 @@ Hope it is helpful for those who are also interested in these papers and happy t
 
 ---
 
-- [Viswanath_2009](https://nbviewer.jupyter.org/github/andrewpan1027/Reproduce-Social-Network-Papers/blob/master/Viswanath_2009.ipynb)
+- [Viswanath_2009](https://github.com/andrewpan1027/Reproduce-Social-Network-Papers/blob/master/Viswanath_2009.ipynb)
