@@ -25,6 +25,6 @@ Hope it is helpful for those who are also interested in these papers and happy t
 
 ---
 
-- [Viswanath_2009: On the Evolution of User Interaction in Facebook](https://github.com/andrewpan1027/Reproduce-Social-Network-Papers/blob/master/Viswanath_2009.ipynb)
+- [Viswanath_2009: On the Evolution of User Interaction in Facebook](https://nbviewer.jupyter.org/github/andrewpan1027/Reproduce-Social-Network-Papers/blob/master/Viswanath_2009.ipynb)
 
-- [Guo_2013: Statistical properties of the personal social network in the Facebook](https://github.com/andrewpan1027/Reproduce-Social-Network-Papers/blob/master/Guo_2013.ipynb)
+- [Guo_2013: Statistical properties of the personal social network in the Facebook](https://nbviewer.jupyter.org/github/andrewpan1027/Reproduce-Social-Network-Papers/blob/master/Guo_2013.ipynb)
